@@ -1,4 +1,3 @@
-使用于一加ace3/12R
 u# payload.bin repack tool
 
 Using delta_generator to repack `payload.bin`.
